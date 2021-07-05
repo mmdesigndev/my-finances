@@ -1,0 +1,12 @@
+{
+  "name": "myfinances",
+  "displayName": "myfinances",
+  "expo": {
+    "name": "myfinances",
+    "slug": "myfinances",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
